@@ -1,0 +1,7 @@
+.header {
+  background-color: #21212d;
+}
+
+.navbar {
+  background-color: darken(#21212d, 0.6);
+}

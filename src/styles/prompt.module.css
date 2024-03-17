@@ -1,0 +1,9 @@
+.root {
+  border-width: 1px;
+  border-style: solid;
+  border-color: lighten(#21212d, 0.05);
+  border-radius: var(--mantine-radius-lg);
+  padding: var(--mantine-spacing-md);
+  background-color: darken(#21212d, 0.6);
+  box-shadow: var(--mantine-shadow-xl);
+}
